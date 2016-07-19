@@ -1,1 +1,1 @@
-# coalescence-framework
+# Coalescence® Framework

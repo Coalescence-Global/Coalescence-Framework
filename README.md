@@ -1,4 +1,4 @@
-![coalescence-logo](https://cloud.githubusercontent.com/assets/634825/16939114/49f61bf0-4d33-11e6-8c84-33ef9e499c13.png)
++![coalescence-logo](https://cloud.githubusercontent.com/assets/634825/16938984/2a8a80cc-4d32-11e6-939a-994d83637cf7.png)
 # Coalescence® Framework
 
 ### Introduction

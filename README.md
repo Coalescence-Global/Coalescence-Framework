@@ -8,6 +8,6 @@ The **Coalescence Framework** incorporates a powerful, nested set of core, gover
 
 Also included are core decision-making methods, meeting practices, shared-language definitions, and a foundational legal architecture that can be fully incorporated and preserved within most organizational forms via bylaws and operating agreements.
 
-The Framework is designed to be extensible - which alows for customizable templates and add-on components to enable flexible organizational deployment, development, and scaling.
+The Framework is designed to be extensible - which allows for customizable templates and add-on components to enable flexible organizational deployment, development, and scaling.
 
 Stay tuned for more details on our upcoming public release...
